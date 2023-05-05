@@ -1,12 +1,14 @@
-### Hi there 👋
+# John Godday Amakata 
+### Data Analyst || Looker Engineer
 
+I am a data analyst with background in Statistics and computer programming in Python, who is passionate about making insights out of data and providing informed decisions for stakeholders. Currently i work using tools like Looker, PowerBI, Excel and program with python, and SQL for data anlytics. My current career pursuit is in the Field of Data Engineering, where i pratically use tools like Airflow, AWS features (Redshift, EC2 etc) for ETL processes with my present team at Sunking[https://www.sunking.com]
 <!--
 **johngodday/johngodday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...👋
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
