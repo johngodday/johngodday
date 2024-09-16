@@ -1,5 +1,5 @@
 # John Godday Amakata 
-### Data Analyst || Looker Engineer
+### Lead Data Analyst || Junior Data Engineer
 
 ![github-header-image (1)](https://user-images.githubusercontent.com/40917132/236448620-b9d4a628-d2b1-4eaa-a78b-3613df4fbd29.png)
 
